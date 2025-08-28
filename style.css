@@ -1,0 +1,27 @@
+
+ /* .container{
+  height: 100vh;
+  background-color: beige;
+  display:flex; /*display=flex garyoo vaney default ma display-direction:row ma hunxa*/
+  /* flex-direction: column;  abo you vertically align hune vayo*/
+  /*justify-content:flex-end; horizontal or main exis ma text align garxa*/
+  /*align-items: center; vertical ma center ma aayo*/
+  /* gap:6px;
+  justify-content: center;
+  align-items: center;
+} */ 
+
+.container{
+  justify-content: flex-end;
+
+}
+
+.item{
+  background-color: red;
+  height: 100px;
+  width:100px;
+  margin-bottom:5px;
+}
+.item1{
+  background-color: blue;
+}

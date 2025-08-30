@@ -11,10 +11,6 @@
   align-items: center;
 } */ 
 
-.container{
-  justify-content: flex-end;
-
-}
 
 .item{
   background-color: red;

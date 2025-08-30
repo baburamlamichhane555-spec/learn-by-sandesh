@@ -1,0 +1,36 @@
+.container{
+  background-color: rgb(212, 212, 30);
+  height:200vh;
+  display :flex;
+  border:2px solid black;
+  position:relative
+
+}
+.item1{
+  height:150px;
+  width:150px;
+  background-color:red;
+}
+
+.item2{
+  height:150px;
+  width:150px;
+  background-color: blue;
+  top:30px;
+  position:sticky
+  
+}
+
+.item3{
+  
+  background-color:green;
+  height: 150px;
+  width:150px;
+}
+
+.item4{
+  height: 150px;
+  width: 150px;
+  background-color:rgb(203, 45, 143);
+
+}

@@ -1,0 +1,39 @@
+
+day 9:
+positioning in css
+position: static ,relative ,absolute ,fixed , sticky.
+   static: whole page become static;
+   relative: position change ta hunxa but previous position replace chai hudaina.
+   absolute: previous position chai replace huxa najik ko lay.
+
+   fixed:-> ancister/parent- kasko aadhar ma movement garne--> webpage ko aadhar ma hunxa. i.e      webpage vari nai matlav tala mathi jata scroll garda ni fixed hunxa.
+
+sticky:-> parent container ko aadhar ma movement garxa., top ko value dinu paryo.
+
+
+
+
+ Point to be noted: relative kailay pani parent lai dine child lai Nadine. child lai absolute dine.
+top:
+right:
+left:
+bottom:
+
+
+
+
+
+day 10:-
+css units
+absolute unit:-(fixed unit :)         relative unit:-(changable)
+yo dharai responsive hudaina 
+px: 1px=0.26mm
+                                       rem,(depends on html document                                                                         o                                            or root)
+                                     em,(depends on parent fontsize.
+                                      mathillo hierarchy matra herxa
+                                     grand parent wala herdaina)
+                                       vw,(viewport width)
+                                       vh,(viewport height)
+                                       % :- paren ko adhar ma   .  c  h                                           cildren lay line ho.
+
+default--> fount-size:16px;

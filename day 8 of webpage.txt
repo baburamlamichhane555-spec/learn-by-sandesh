@@ -10,18 +10,11 @@ position: static ,relative ,absolute ,fixed , sticky.
 
 sticky:-> parent container ko aadhar ma movement garxa., top ko value dinu paryo.
 
-
-
-
  Point to be noted: relative kailay pani parent lai dine child lai Nadine. child lai absolute dine.
 top:
 right:
 left:
 bottom:
-
-
-
-
 
 day 10:-
 css units

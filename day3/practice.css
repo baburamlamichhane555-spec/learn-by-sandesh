@@ -1,0 +1,27 @@
+/* .parent{
+  background-color: tomato;
+  width:50vw;
+  height:50vh;
+}
+.child{
+  background-color: violet;
+  font-size: 2rem;
+  height: 50vh;
+  width: 50vw;
+} */
+
+.container{
+  background-color: rgb(212, 212, 30);
+  height:200vh;
+  display :flex;
+  border:2px solid black;
+  position:relative
+
+}
+.item1{
+  background-color: pink;
+  
+  height:2vh;
+  width:30vw;
+  position:relative;
+}
